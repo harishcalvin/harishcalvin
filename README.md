@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+**I'm harish, self-taught frontend web dev _from chennai, India_**
+- 🌱 I’m currently learning jquery, SASS, React.
+- 📫 How to reach me: [twitter](https://twitter.com/harish_calvin)
 <!--
 **harishcalvin/harishcalvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
